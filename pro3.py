@@ -1,3 +1,3 @@
-print('Python is powerful')
+print('Python is weak')
 
-# Output: Python is powerful
+# Output: Python is weak
